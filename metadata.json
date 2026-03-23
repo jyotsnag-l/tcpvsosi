@@ -1,0 +1,5 @@
+{
+  "name": "OSI vs TCP/IP Model Simulator",
+  "description": "An interactive web application that visually simulates and compares the 7-layer OSI model and the 4-layer TCP/IP model. Users can watch a data packet traverse the layers, highlighting the functions and differences at each stage.",
+  "requestFramePermissions": []
+}
